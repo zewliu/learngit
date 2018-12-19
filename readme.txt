@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 re-test branch merge
 try stash issue 1 fixed
+try to test how stash works
