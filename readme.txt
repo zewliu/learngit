@@ -7,3 +7,4 @@ re-test branch merge
 try stash issue 1 fixed
 try to test how stash works
 dev version specific
+vulcan feature added
